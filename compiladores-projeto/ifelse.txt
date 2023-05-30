@@ -1,0 +1,15 @@
+inteiro a -> leia.inteiro().
+inteiro b -> leia.inteiro().
+
+se (a == b)?
+    exiba("sao iguais").
+    se (a > 10)?
+        exiba("a maior que 10").
+    ¿
+¿
+senao se (a > b)?
+    exiba("a maior").
+¿
+senao?
+    exiba("b maior").
+¿

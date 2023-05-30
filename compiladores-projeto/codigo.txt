@@ -1,0 +1,8 @@
+inteiro a -> 30.
+se (a > 20) ?
+	a -> 20.
+    exiba(a).
+¿
+senao?
+	a -> 10.
+¿

@@ -1,0 +1,1 @@
+antlr gramatica.g4 & javac *.java

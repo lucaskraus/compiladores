@@ -1,0 +1,9 @@
+exiba("digite uma string").
+texto c -> leia.texto().
+
+exiba("digite um inteiro").
+inteiro a -> leia.inteiro().
+
+exiba("digite um decimal").
+real b -> leia.real().
+

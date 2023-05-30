@@ -1,0 +1,6 @@
+inteiro a -> 0.
+
+enquanto (a < 10)?
+    exiba(a).
+    a++.
+¿

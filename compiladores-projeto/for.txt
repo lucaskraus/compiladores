@@ -1,0 +1,5 @@
+inteiro i -> 0.
+
+para( i -> 20 | i < 30 | i++)?
+    exiba(i).
+¿
